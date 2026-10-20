@@ -1,0 +1,9 @@
+# Ignore sensitive keys and tokens
+groq_api_key.txt
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Simulator binaries
+term1-simulator-windows/
